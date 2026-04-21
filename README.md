@@ -19,7 +19,7 @@ Designed with a clean, decoupled architecture to support modern frontends, the s
 Clone the repository and navigate into the backend directory:
 
 ``` Bash
-git clone <repository-url>
+git clone https://github.com/Mordecai-Wambua/smart-season-backend
 cd smartseason-backend
 ```
 
